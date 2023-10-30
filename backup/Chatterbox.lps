@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="Chatterbox.pas"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="17" Y="5"/>
+        <UsageCount Value="178"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="procesos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="16"/>
+        <CursorPos X="20" Y="26"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="menu.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="8"/>
+        <CursorPos X="66" Y="13"/>
+        <UsageCount Value="88"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="chat_general.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="11" Y="30"/>
+        <UsageCount Value="83"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="chat.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="83"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="u_maneja_archivo_peliculas.pas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="10"/>
+        <CursorPos X="49" Y="48"/>
+        <UsageCount Value="14"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="u_archivo_peliculas.pas"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="64" Y="14"/>
+        <UsageCount Value="14"/>
+        <Loaded Value="True"/>
+      </Unit6>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="41" Column="23" TopLine="12"/>
+      </Position1>
+      <Position2>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="3" Column="11"/>
+      </Position2>
+      <Position3>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="5" Column="53"/>
+      </Position3>
+      <Position4>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="16" Column="10" TopLine="2"/>
+      </Position4>
+      <Position5>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="15" Column="17" TopLine="13"/>
+      </Position5>
+      <Position6>
+        <Filename Value="menu.pas"/>
+        <Caret Line="29" Column="32" TopLine="7"/>
+      </Position6>
+      <Position7>
+        <Filename Value="u_maneja_archivo_peliculas.pas"/>
+        <Caret Line="42" TopLine="23"/>
+      </Position7>
+      <Position8>
+        <Filename Value="u_maneja_archivo_peliculas.pas"/>
+        <Caret Line="47" Column="63" TopLine="23"/>
+      </Position8>
+      <Position9>
+        <Filename Value="u_maneja_archivo_peliculas.pas"/>
+        <Caret Line="50" Column="13" TopLine="23"/>
+      </Position9>
+      <Position10>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="18" Column="14"/>
+      </Position10>
+      <Position11>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="61" Column="82" TopLine="45"/>
+      </Position11>
+      <Position12>
+        <Filename Value="u_maneja_archivo_peliculas.pas"/>
+        <Caret Line="100" Column="44" TopLine="74"/>
+      </Position12>
+      <Position13>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="9" Column="45"/>
+      </Position13>
+      <Position14>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="46" Column="6" TopLine="28"/>
+      </Position14>
+      <Position15>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="80" Column="5" TopLine="47"/>
+      </Position15>
+      <Position16>
+        <Filename Value="menu.pas"/>
+        <Caret Line="32" Column="19" TopLine="23"/>
+      </Position16>
+      <Position17>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="88" Column="5" TopLine="57"/>
+      </Position17>
+      <Position18>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="59" Column="35" TopLine="57"/>
+      </Position18>
+      <Position19>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="79" Column="24" TopLine="57"/>
+      </Position19>
+      <Position20>
+        <Filename Value="menu.pas"/>
+        <Caret Line="32" Column="18" TopLine="22"/>
+      </Position20>
+      <Position21>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="185" Column="96" TopLine="173"/>
+      </Position21>
+      <Position22>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="246" Column="11" TopLine="215"/>
+      </Position22>
+      <Position23>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="255" Column="13" TopLine="231"/>
+      </Position23>
+      <Position24>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="15"/>
+      </Position24>
+      <Position25>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="253" Column="12" TopLine="232"/>
+      </Position25>
+      <Position26>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="262" Column="33" TopLine="232"/>
+      </Position26>
+      <Position27>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="264" Column="8" TopLine="232"/>
+      </Position27>
+      <Position28>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="256" Column="14" TopLine="234"/>
+      </Position28>
+      <Position29>
+        <Filename Value="procesos.pas"/>
+        <Caret Line="255" Column="40" TopLine="234"/>
+      </Position29>
+      <Position30>
+        <Filename Value="u_archivo_peliculas.pas"/>
+        <Caret Line="14" Column="64"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
